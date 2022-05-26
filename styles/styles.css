@@ -10,7 +10,7 @@ body{
 ::-webkit-scrollbar-thumb{
     width: 1vh;
     border-radius: 1rem;
-    background-color: #5c5238c9;
+    background-color: #ecd69ec9;
 }
 .conteiner{
     max-width: 80%;
@@ -22,7 +22,7 @@ body{
     /* justify-content: center; */
 }
 .colorText{
-    background: linear-gradient(339deg, #801c35,#1550a1);
+    background: linear-gradient(339deg, #f0f061,#1550a1);
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -34,12 +34,12 @@ header{
     background-size: contain;
 }
 .colorTextH{
-    background: linear-gradient(339deg, #e29eb1,#93bbf3);
+    background: linear-gradient(339deg, #e3f78d,#93bbf3);
     -webkit-background-clip: text;
     color: transparent;
 }
 .contactBox{
-    background-color: #6e3347; 
+    background-color:#e8f17f; 
     height: 110vh;
     width: 15rem;
     flex-direction: column;
@@ -87,5 +87,5 @@ header{
     width: 19rem;
 }
 .cardpage:hover{
-    background-color: #117eb411;
+    background-color: #dde18e11;
 }
