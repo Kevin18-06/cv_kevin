@@ -29,9 +29,9 @@ body{
 .vpy{width: 1.5rem;}
 /* Header */
 header{
-    background: linear-gradient(360deg, #181a1ba6, rgba(0, 0, 0, 0)), url(../img/cv.JPG);
     background-repeat: no-repeat;
-    /* background-image: url(../img/blob_7-7-226.svg); */
+    background-image: url(../img/cv.JPG);
+    background-size: contain;
 }
 .colorTextH{
     background: linear-gradient(339deg, #e29eb1,#93bbf3);
